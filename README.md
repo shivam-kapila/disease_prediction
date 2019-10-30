@@ -1,2 +1,6 @@
 # disease_prediction
-we will predict the probable disease through the symptoms obtained by the users using machine learning and python
+
+This a project to predict the disease a user might have based on the symptoms observed. The Machine Learning model had been trained and tested. The code base id based on Python.
+
+The model takes input from csv files.
+the front end has also been coded in Python using the Tkinkter library and the data handling has been done using Pandas.
